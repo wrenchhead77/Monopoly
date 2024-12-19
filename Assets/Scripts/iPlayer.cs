@@ -1,7 +1,7 @@
 using System.Collections;
 using UnityEngine;
 
-public class Player : MonoBehaviour
+public class iPlayer : MonoBehaviour
 {
     [Header("Setup Info")]
     public WplayerInfo wPlayerInfo;
